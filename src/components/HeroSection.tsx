@@ -13,7 +13,7 @@ const HeroSection = () => {
       </video>
 
       {/* Heading + Button */}
-      <div className="relative z-10 mt-0 ml-[-2px]">
+      <div className="relative z-10 mt-0 pl-[15px]">
         <h1 className="text-5xl font-medium leading-tight text-foreground sm:text-6xl md:text-7xl lg:text-[78px]">
           Drive Beyond.
           <br />
