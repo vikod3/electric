@@ -26,10 +26,6 @@ const ServicesSection = () => {
             every single detail
           </h2>
 
-          <p className="mt-5 max-w-2xl text-base leading-relaxed text-primary/60 md:text-lg">
-            Our vehicles help you conquer winding highways, streamline daily
-            commuting, and make every driving experience pure joy.
-          </p>
         </div>
 
         {/* Feature Card — Glass Effect */}
