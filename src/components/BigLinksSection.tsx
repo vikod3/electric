@@ -35,7 +35,7 @@ const BigLinksSection = () => {
           className="absolute inset-0 h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-black/60" />
-        <div className="relative z-10 mx-auto flex max-w-7xl flex-col items-center text-center">
+        <div className="relative z-10 mx-auto flex max-w-7xl flex-col items-start text-left">
           <span className="inline-block rounded-full border border-primary/30 px-4 py-1.5 text-xs font-medium uppercase tracking-widest text-primary">
             Connected Systems
           </span>
