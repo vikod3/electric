@@ -27,7 +27,7 @@ const BigLinksSection = () => {
       {/* Top: Integrations area */}
       <div className="relative overflow-hidden px-7 py-24 md:px-12 lg:px-20 lg:py-32">
         <video
-          src="/videos/integrations_bg.mp4"
+          src="/videos/biglinks_bg.mp4"
           autoPlay
           loop
           muted
